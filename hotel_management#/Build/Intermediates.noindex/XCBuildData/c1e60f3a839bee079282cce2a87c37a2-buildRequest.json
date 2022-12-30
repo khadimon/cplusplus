@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "851e8b0f909db92b185e50e550ef926f591038a1ac2d2f7d37105a1aea2fbab0"
+    }
+  ],
+  "containerPath" : "/Users/khadichabonuvalieva/Desktop/Projects/hotel_management#/hotel_management#.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/khadichabonuvalieva/Desktop/Projects/hotel_management#/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/khadichabonuvalieva/Desktop/Projects/hotel_management#/Build/Products",
+      "derivedDataPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis",
+      "indexDataStoreFolderPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis/hotel_management#-grvvoxzpuswpblgwboyizncluxmk/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis/hotel_management#-grvvoxzpuswpblgwboyizncluxmk/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/khadichabonuvalieva/Desktop/Projects/hotel_management#/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
